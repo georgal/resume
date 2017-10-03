@@ -4,8 +4,8 @@ require 'vendor/autoload.php';
 use Mailgun\Mailgun;
 
 # Instantiate the client.
-$mgClient = new Mailgun('key-3ax6xnjp29jd6fds4gc373sgvjxteol0');
-$domain = "samples.mailgun.org";
+$mgClient = new Mailgun('key-274c0454bfb273b534863c15435be750');
+$domain = "sandbox8e91abbdc2b840a0aecbea08172c53e7.mailgun.org";
 
 # Make the call to the client.
 $result = $mgClient->sendMessage("$domain",
