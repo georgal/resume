@@ -1,9 +1,4 @@
 <?php 
-# Install Composer
-curl -sS https://getcomposer.org/installer | php
-
-# Add Mailgun and Guzzle6 as a dependency (see Github README below for more info)
-php composer.phar require mailgun/mailgun-php php-http/guzzle6-adapter php-http/message
 
 require 'vendor/autoload.php';
 use Mailgun\Mailgun;
