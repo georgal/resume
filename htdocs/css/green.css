@@ -56,7 +56,7 @@ fieldset{
 }
 
 body {
-	font-family: Georgia, Myriad pro, Helvetica, sans-serif;
+	font-family: Lato, Georgia, Myriad pro, Helvetica, sans-serif;
 	background-color: #b6b6b6;
 	background-image: url(../images/bg.jpg);
 	background-repeat: repeat;
@@ -125,6 +125,7 @@ a:hover {
 	padding-top:55px;
 	clear: both;
 	margin-left:4px;
+	font-family: Georgia, "Times New Roman", serif;
 }
 
 .entry h2{
