@@ -312,6 +312,6 @@ big {
 }
 
 .marginer{
-	padding-right: 100px;
+	display: inline;
 	text-align: justify;
 }
