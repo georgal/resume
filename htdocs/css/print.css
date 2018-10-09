@@ -170,6 +170,7 @@ ul.skills li {
 	padding-left:0;
 	background-position: 0 .5em;
 	margin-top:6px;
+	color: black;
 }
 
 img.portrait {
@@ -308,4 +309,8 @@ big {
 
 #contact {
 	display:none;
+}
+
+.marginer{
+	width: 100px;
 }
